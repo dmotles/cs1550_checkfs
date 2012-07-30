@@ -10,12 +10,12 @@ filesystem.
 
 - Compile with GCC
 
-    :gcc -o checkfs check_fs.c
+              gcc -o checkfs check_fs.c
 
 ## Usage
 - Run from the same directory where the .disk file is located.
 
-    :./checkfs
+              ./checkfs
 
 ## License
 - Pfft? Really? Naw man. Use as you please. And good luck on your project!
