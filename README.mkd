@@ -1,0 +1,24 @@
+### CS1550 check_fs
+
+This is a basic program that scans the .disk file of your virtual filesystem
+and spits out the data it finds on the filesystem blocks. This does not contain
+any code that will help you with your project, but it can be a fantastic
+debugging tool when you are trying to figure out what's going on with your
+filesystem.
+
+## Compile
+
+- Compile with GCC
+
+    :gcc -o checkfs check_fs.c
+
+## Usage
+- Run from the same directory where the .disk file is located.
+
+    :./checkfs
+
+## License
+- Pfft? Really? Naw man. Use as you please. And good luck on your project!
+
+## Author
+- Dan Motles <dmm141@pitt.edu>
